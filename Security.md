@@ -28,4 +28,10 @@ These timelines are targets and may vary based on specific circumstances.
 
 ## Reporting a Vulnerability
 
-You must never report security related issues, vulnerabilities or bugs via the issue tracker or elsewhere in public. Instead sensitive bugs must be sent by email to [security@superreachos.com](mailto:security@superreachos.com)
+You must never report security related issues, vulnerabilities or bugs via the issue tracker or elsewhere in public.
+
+Instead, sensitive bugs must be sent by email to [security@superreachos.com](mailto:security@superreachos.com) or through the ‘Report a Vulnerability’ link above.
+
+We commit to acknowledging vulnerability reports immediately, and will work to fix active vulnerabilities as soon as we can as indicated above. Critical incidents will be communicated both on the GitHub security page and via email to all affected users.
+
+At Superreach we really do value contributors' support in helping to ensure that our tools and operating system remain secure for everyone. Thank you for your support and most importantly for your responsible disclosure.
